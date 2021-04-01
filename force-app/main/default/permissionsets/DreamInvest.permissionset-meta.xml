@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>DreamInvest</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <description>This is a permission set for access to the DreamInvest package.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>DreamInvest</label>
+</PermissionSet>
